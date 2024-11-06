@@ -16,6 +16,7 @@ function App() {
         <input type="password" placeholder="Password" required />
         <button type="submit">Log In</button>
         <div className="links">
+          {/* jndjc */}
           <a href="#">Forgotten password?</a>
           <a href="#">Create New Account</a>
         </div>
